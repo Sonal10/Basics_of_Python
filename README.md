@@ -14,4 +14,3 @@ rename.py - Renames files in folders
 send_messages.py - Uses twillio package to send messages to phone
 object_oriented.py - Implements object oriented concepts
 simple_calculator.py - Implements calculator functions using object oriented concepts
-
