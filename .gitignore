@@ -1,0 +1,9 @@
+envs
+.vscode
+outputs
+inputs
+.pyc
+__pycache__
+.ipynb_checkpoints
+.json
+.vscode/settings.json
